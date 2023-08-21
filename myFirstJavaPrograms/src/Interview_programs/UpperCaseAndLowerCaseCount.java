@@ -1,12 +1,6 @@
-package roughwork;
+package Interview_programs;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Scanner;
-
-public class RoughPractice  {
+public class UpperCaseAndLowerCaseCount {
 
 	public static void main(String[] args) {
 		
@@ -34,6 +28,8 @@ public class RoughPractice  {
 		System.out.println("small letters are "+lower);
 		System.out.println("integers are "+number);
 		System.out.println("special charecotrs are "+specilaCharector);
-						
+
+
 	}
+
 }
